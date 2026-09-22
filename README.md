@@ -24,7 +24,7 @@ FP&amp;A project evaluating Applied Materials' 2017-2018 performance ahead of th
 
 ## Files
 
-- `Applied Materials - FP&A Model.xlsx` — full model: ratios, forecast, DCF
+- `Applied Materials - FP&A Model.xlsx` — full model: ratios, forecast, sensitivity analysis, scenario planning
 
 ## Screenshots
 
