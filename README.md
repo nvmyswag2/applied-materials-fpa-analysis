@@ -3,23 +3,30 @@ FP&amp;A project evaluating Applied Materials' 2017-2018 performance ahead of th
 
 ## Objective
 
-- Compute liquidity, solvency, turnover, profitability, and market value ratios (2017–2018)
-- Assess financial health and year-over-year trends
-- Forecast income statement and balance sheet using percentage-of-sales
-- Identify key drivers for FP&A scenario planning
+- Conduct a full financial statement analysis of Applied Materials (2017–2018) ahead of the company's $600M META Center investment
+- Assess liquidity, solvency, turnover, profitability, and market value trends to evaluate financial health
+- Calculate free cash flow (FCF) to determine whether the company is financially constrained in funding strategic initiatives
+- Apply the percentage-of-sales method to identify which financial statement line items scale with revenue, supporting a forward-looking forecast model
+- Identify key performance drivers and build a sensitivity/scenario planning framework for FP&A to monitor META Center's impact on firm performance
 
 ## Key Findings
 
-- Overall, liquidity trends in a positive direction (current and quick ratio remain substantially above 1.0).
-- Overall, the company remains solvent over the long term with an improved times interest earned ratio despite the elevated total debt and debt-equity ratios.
-- Key Drivers for Future Performance of META: PP&E to track the $600M investment over 7 years; Depreciation will track value loss of high-tech tangible assets.
-- Drivers to Monitor for Applied Materials: Monitor internal project demand vs lab capacity.
-- Scenario Planning Best-Case: The META Center generates 10K+ jobs and a thriving startup ecosystem; patent output boosts net income and profitability margins.
+**1. Liquidity and Solvency** — Liquidity ratios softened but remain healthy, while solvency ratios show higher leverage from share buybacks but stronger debt coverage.
+
+**2. Turnover and Profitability** — Turnover stayed broadly healthy aside from slower inventory clearance, and profitability remained strong despite modest ROA/ROE declines.
+
+**3. Free Cash Flow** — FCF dipped slightly on higher CapEx but stayed well above financing needs, confirming the company is not financially constrained.
+
+**4. Percentage-of-Sales Forecasting** — Operating expenses and working capital accounts scale predictably with sales, while PP&E and debt are better modeled through dedicated schedules — consistent with Applied Materials' actual META-driven CapEx growth.
+
+**5. Key Drivers and Scenario Planning** — Future performance hinges on R&D-to-product conversion and META Center capital deployment, with AI disruption risk and grant-milestone compliance as key sensitivities.
 
 ## Methodology
 
-- Ratio analysis: liquidity, solvency, turnover, profitability, market value
-- Percentage-of-sales forecasting: income statement, balance sheet
+- Ratio analysis: liquidity, solvency, turnover, profitability, and market value ratios (2017–2018), benchmarked against semiconductor industry standards
+- Free cash flow analysis: FCF and FCF margin, compared to industry benchmark range
+- Percentage-of-sales forecasting: applied to Consolidated Statements of Operations and Balance Sheets to classify sales-driven vs. non-operating line items
+- Sensitivity analysis and scenario planning: best-case / worst-case modeling of META Center's impact on future performance
 - Built in Excel
 
 ## Files
